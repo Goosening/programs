@@ -13,3 +13,6 @@ A calculator for both the Pythagorean theorem and the Euclid algorithm, because 
 
 # Random_Number_Guesser
 Speaks for itself.
+
+# This_Dumb_Test
+Simple quiz except the answers are shown (no idea how to make them hidden)
