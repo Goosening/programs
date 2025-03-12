@@ -1,5 +1,5 @@
 # Python Cheat Sheet
-made by me and a tiny bit of ai help
+Creators: Filip Krejčí and Matyáš Rada
 
 ## Variables and Data Types
 ```python
