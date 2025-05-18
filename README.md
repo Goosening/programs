@@ -15,4 +15,19 @@ A calculator for both the Pythagorean theorem and the Euclid algorithm, because 
 Speaks for itself.
 
 # This_Dumb_Test
-Simple quiz except the answers are shown (no idea how to make them hidden)
+Simple quiz except the answers are shown (no idea how to make them hidden).
+
+# Letter_Counter
+Counts the letters and symbols in a word.
+
+# Word_Guesser
+Basically hangman.
+
+# Super_Typer
+A game about typing fast.
+
+# Time_Converter
+Converts time, wow.
+
+# Minefield_Generator
+Generates a minefield for minesweeper.
